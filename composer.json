@@ -1,0 +1,19 @@
+{
+    "name": "test/payment",
+    "description": "Author [weihao <podoid@outlook.com>, n to skip]",
+    "type": "l",
+    "license": "Apache",
+    "autoload": {
+        "psr-4": {
+            "Payment\\": "src/payment"
+        }
+    },
+    "authors": [
+        {
+            "name": "weihao",
+            "email": "podoid@outlook.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
